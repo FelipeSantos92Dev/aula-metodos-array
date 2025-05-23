@@ -11,3 +11,7 @@ Remove o último elemento do array
 ## Método Shift
 
 Remove o primeiro elemento do array
+
+## Método Unshift
+
+Adiciona elementos no início do array
